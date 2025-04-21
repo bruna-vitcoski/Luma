@@ -17,8 +17,8 @@ public class TestMagentoLogin {
     LoginPage loginPage;
     ProdutoPage produtoPage;
 
-    String email = "2023019820@aluno.osorio.ifrs.edu.br";
-    String senha = "CampusOsorio2025";
+    String email = "seu e-mail";
+    String senha = "sua senha";
     
     String produtoUrl = "https://magento.softwaretestingboard.com/women/bottoms-women/shorts-women.html";
 
